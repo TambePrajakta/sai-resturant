@@ -1,0 +1,56 @@
+body{
+    background-color: #faeee7;
+    }
+    .page-heading{
+    color:blue;
+    text-align: center;
+    font-size: 50px;
+    margin: 50px auto;
+    }
+    .page-heading1{
+    color:rgb(250, 43, 6);
+    text-align: center;
+    font size:40px;
+    margin:50px auto;
+   }
+
+   .header-description-container{
+    width: 50%;
+    padding: 20px;
+    justify-content: center;
+    padding: 5px 15px 5px 15px;
+    margin:10px 30px 0px 80px;
+   }
+    .buttons-container{
+    display: flex;
+    justify-content:center;
+    margin:20px;
+    }
+    .my-buttons{
+    background-color:#ff8ba7;
+    margin: 0px 30px;
+    padding:10px 30px;
+    width: 180;
+    border-radius: 40px;
+    cursor:pointer;
+    }
+    .btn{
+    padding:10px 30px ;
+    border-radius: 50px;
+    border:none;
+    cursor:pointer;
+    border-shadow: 0 5px 15x #c3f0ca;
+    color: #33272a;
+    }
+    .btn-primary{
+    background-color: #e2e606;
+    margin:20px;
+    }
+    .btn-secondary{
+    background-color: rgb(236, 81, 20);
+    margin:20px;
+    }
+    .no-underline{
+    text-decoration: none;
+    }
+</style>
